@@ -1,7 +1,7 @@
 # RESTAURANT MANAGEMENT SYSTEM
 
 ## Project overview
-  restaurant management system aims to help restaurant owners, managers, staffs and customers enjoy a seamless space and working environment. All this by digitalizing work operations like; inventory management, ordering, table reservation and sales thereby eliminating paperwork. This project won't focus on the implementation part just yet, it will be focused in the requirement gathering, analysis of the data gathered and design of our system. 
+Fuudy is a restaurant management system that aims to help restaurant owners, managers, staffs and customers enjoy a seamless space and working environment. All this by digitalizing work operations like; inventory management, ordering, table reservation and sales thereby eliminating paperwork. This project won't focus on the implementation part just yet, we will look at **TWO** important phases in the software development life cycle which are: Requirement gathering and Analysis and Design of our system.
 
   ## 📚 Contributors
   For this project, we were divided into groups of 7 each. 
@@ -10,9 +10,14 @@
   - [Sama-Mokom](https://github.com/Sama-Mokom)
   - [LA-237](https://github.com/LA-237)
 
-    ## 📊 Requirement gathering and Data analysis
-    
-    
+ ## 📊 Requirement gathering and Data analysis
+ ### Requirement gathering
+ The requirement gathering techniques we used include:
+ -Survey.
+ -Observation.
+
+ 
+ 
    
 
   
