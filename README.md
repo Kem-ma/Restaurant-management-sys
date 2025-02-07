@@ -1,7 +1,7 @@
 # RESTAURANT MANAGEMENT SYSTEM
 
 ## Project overview
-Fuudy is a restaurant management system that aims to help restaurant owners, managers, staffs and customers enjoy a seamless space and working environment. All this by digitalizing work operations like; inventory management, ordering, table reservation and sales thereby eliminating paperwork. This project won't focus on the implementation part just yet, we will look at **TWO** important phases in the software development life cycle which are: Requirement gathering and Analysis and Design of our system.
+Foodie is a restaurant management system that aims to help restaurant owners, managers, staffs and customers enjoy a seamless space and working environment. All this by digitalizing work operations like; inventory management, ordering, table reservation and sales thereby eliminating paperwork. This project won't focus on the implementation part just yet, we will look at **TWO** important phases in the software development life cycle which are: Requirement gathering and Analysis and Design of our system.
 
   ## 📚 Contributors
   For this project, we were divided into groups of 7 each. 
